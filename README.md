@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Java, React, MySQL**
 
-- 👨‍💻 All of my projects are available at [https://nicholasosei.netlify.app/](https://nicholasosei.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **kofioseivvip@gmail.com**
 
