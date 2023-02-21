@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nicholas K. Osei</h1>
-<h3 align="center"><> Front End Dev🧑🏻‍💻 and UI / UX Designer </></h3>
+<h3 align="center"><> UI/UX Engineer </></h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" style="width: 30rem;">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nick920" alt="nick920" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Java, React, MySQL**
+- 🌱 I’m **
 
-- 👨‍💻 All of my projects are available at 
-
-- 📫 How to reach me **kofioseivvip@gmail.com**
+- 📫 How to reach me via mail **nicholaskofiosei@gmail.com.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
